@@ -97,7 +97,7 @@ html, body {
   /* ---- Home page background image/start ---- */
    .home_bg {
      background-image: url(https://cdn.pixabay.com/photo/2019/07/14/16/27/pen-4337521_960_720.jpg);
-     background-size: cover, auto; 
+     background-size: cover; 
      background-position: center;
      background-repeat: no-repeat;
      background-attachment: fixed; 
